@@ -13,7 +13,7 @@ You are welcome to contribute with more items provided below.
 1. [require => import](#require)
 1. [createClass => extends React.Component](#createClass)
 1. [module.exports => export default](#module.exports)
-1. [name: function()  =>  name()](#name:)
+1. [name: function()  =>  name()](#name)
 1. [getDefaultProps and propTypes](#getDefaultProps)
 1. [getInitialState](#getInitialState)
 1. [Destructuring & spread attributes](#Destructuring)
