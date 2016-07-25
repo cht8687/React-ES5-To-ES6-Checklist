@@ -56,7 +56,7 @@ ES6
   class Mycomponent extends React.Component {
     render() {
       return (
-        <div>ES5</div>
+        <div>ES6</div>
       );
     }
   }
@@ -86,7 +86,7 @@ ES6
   export default class Mycomponent extends React.Component {
     render() {
       return (
-        <div>ES5</div>
+        <div>ES6</div>
       );
     }
   }
@@ -122,7 +122,7 @@ ES6
     }
     render() {
       return (
-        <div>ES5</div>
+        <div>ES6</div>
       );
     }
   }
