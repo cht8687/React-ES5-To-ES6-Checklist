@@ -10,16 +10,15 @@ You are welcome to contribute with more items provided below.
 
 ## Quick links
 
-1. [require => import](#require)
+1. [require => import](#require-to-import)
 1. [createClass => extends React.Component](#createClass)
 1. [module.exports => export default](#module.exports)
-1. [name: function()  =>  name()](#name)
-1. [getDefaultProps and propTypes](#getDefaultProps)
+1. [name: function()  =>  name()](#functions)
+1. [getDefaultProps and propTypes](#getDefaultProps-and-propTypes)
 1. [getInitialState](#getInitialState)
-1. [Destructuring & spread attributes](#Destructuring)
+1. [Destructuring & spread attributes](#Destructuring-and-spread-attributes)
 
-
-### require => import
+### require-to-import
 
 ES5
 
@@ -37,7 +36,7 @@ ES6
 
 **[⬆ back to top](#quick-links)**
 
-### createClass => extends React.Component
+### createClass
 
 ES5
 
@@ -64,7 +63,7 @@ ES6
   ```
 **[⬆ back to top](#quick-links)**
 
-### module.exports => export default 
+### module.exports 
 
 ES5
 
@@ -94,7 +93,7 @@ ES6
   ```
 **[⬆ back to top](#quick-links)**
 
-### name: function()  =>  name()
+### functions
 
 ES5
 
@@ -131,7 +130,7 @@ ES6
 
 **[⬆ back to top](#quick-links)**
 
-### getDefaultProps and propTypes
+### getDefaultProps-and-propTypes
 
 ES5
 
@@ -242,7 +241,7 @@ ES7
 
 **[⬆ back to top](#quick-links)**
 
-### Destructuring & spread attributes
+### Destructuring-and-spread-attributes
 
 ```js
 class AutoloadingPostsGrid extends React.Component {
@@ -275,7 +274,7 @@ class AutoloadingPostsGrid extends React.Component {
 
 ## Roadmap
 
-- [ ] Include all ES5 to ES6 checklist for React
+- [ ] Include all ES5 to ES6+ instructions for React
 - [ ] We may Implement ESlint plugin like ESlint-Plugin-React-5-to-6
 - [ ] We may Include instructions for configuring Babel with different stages
 
