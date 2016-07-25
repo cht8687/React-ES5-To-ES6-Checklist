@@ -11,8 +11,8 @@ You are welcome to contribute with more items provided below.
 ## Quick links
 
 1. [require => import](#require-to-import)
-1. [createClass => extends React.Component](#createClass)
-1. [module.exports => export default](#module.exports)
+1. [createClass => extends React.Component](#createClass-to-extends)
+1. [module.exports => export default](#module-exports-to-export-default)
 1. [name: function()  =>  name()](#functions)
 1. [getDefaultProps and propTypes](#getDefaultProps-and-propTypes)
 1. [getInitialState](#getInitialState)
@@ -36,7 +36,7 @@ ES6
 
 **[⬆ back to top](#quick-links)**
 
-### createClass
+### createClass-to-extends
 
 ES5
 
@@ -63,7 +63,7 @@ ES6
   ```
 **[⬆ back to top](#quick-links)**
 
-### module.exports 
+### module-exports-to-export-default
 
 ES5
 
