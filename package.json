@@ -1,0 +1,28 @@
+{
+  "name": "React-ES5-To-ES6-Checklist",
+  "version": "1.0.0",
+  "description": "The missing manual of upgrading ES5 React project to ES6+",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cht8687/React-ES5-To-ES6-Checklist.git"
+  },
+  "keywords": [
+    "React",
+    "ES6",
+    "ES7"
+  ],
+  "author": "Robert Chang <cht8687@gmail.com>",
+  "main": "lib/index.js",
+  "scripts": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=4.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cht8687/React-ES5-To-ES6-Checklist/issues"
+  },
+  "homepage": "https://github.com/cht8687/React-ES5-To-ES6-Checklist.git"
+}
