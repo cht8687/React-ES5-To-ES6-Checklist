@@ -267,7 +267,7 @@ class AutoloadingPostsGrid extends React.Component {
 
 * [React](https://github.com/facebook/react)
 * [Babel](https://github.com/babel/babel)
-* [ECMAScript 6 support in Mozill](https://developer.mozilla.org/en/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla)
+* [ECMAScript 6 support in Mozilla](https://developer.mozilla.org/en/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla)
 * [React on ES6+](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)
 * [Converting React project from ES5 to ES6](http://cheng.logdown.com/posts/2015/09/29/converting-es5-react-to-es6)
 * [React/React Native 的ES5 ES6写法对照表](http://bbs.reactnative.cn/topic/15/react-react-native-%E7%9A%84es5-es6%E5%86%99%E6%B3%95%E5%AF%B9%E7%85%A7%E8%A1%A8/2)
