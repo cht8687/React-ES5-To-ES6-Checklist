@@ -24,8 +24,8 @@ ES5
 
   ```js
   //ES5
-  var React = require("react");
-  var { Component, PropType } = React; 
+  var React = require("react");  
+  var PropTypes = React.PropTypes;
   ```
 
 ES6
