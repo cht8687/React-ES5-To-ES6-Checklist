@@ -178,7 +178,7 @@ ES6
   };
   ```
 
-ES7:
+ES future proposals:
 
   ```js
   class Video extends React.Component {
@@ -227,7 +227,7 @@ ES6
   }
   ```
 
-ES7
+ES future proposals:
   
   ```js
   export default class Header extends Component {
