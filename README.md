@@ -17,6 +17,7 @@ You are welcome to contribute with more items provided below.
 1. [getDefaultProps and propTypes](#getdefaultprops-and-proptypes)
 1. [getInitialState](#getinitialstate)
 1. [Destructuring & spread attributes](#destructuring-and-spread-attributes)
+1. [use arrow functions](#use-arrow-functions)
 
 ### require-to-import
 
@@ -259,6 +260,44 @@ class AutoloadingPostsGrid extends React.Component {
   }
 }
 
+```
+
+**[⬆ back to top](#quick-links)**
+
+### use-arrow-functions
+
+Stateless component:
+
+```js
+
+function App() {
+  return (
+    <div>
+      <MyComponent />
+    </div>
+  );
+}
+
+```
+
+Using Arrow function:
+
+```js
+const App = () => (
+  <div>
+    <MyComponent />
+  </div>
+);
+```
+
+Using Arrow funtion with [Destructuring function arguments](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/ch2.md#destructuring-parameters):
+
+```js
+const App = ({className, ...rest}) => (
+  <div className={classnames(className)} {rest}>
+    <MyComponent />
+  </div>
+);
 ```
 
 **[⬆ back to top](#quick-links)**
