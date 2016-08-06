@@ -16,7 +16,7 @@ You are welcome to contribute with more items provided below.
 1. [name: function()  =>  name()](#functions)
 1. [getDefaultProps and propTypes](#getdefaultprops-and-proptypes)
 1. [getInitialState](#getinitialstate)
-1. [Destructuring & spread attributes](#destructuring-and-spread-attributes)
+1. [destructuring & spread attributes](#destructuring-and-spread-attributes)
 1. [use arrow functions](#use-arrow-functions)
 
 ### require-to-import
