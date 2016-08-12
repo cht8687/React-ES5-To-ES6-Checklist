@@ -1,5 +1,6 @@
+ES6 and beyond is very popular.
 
-ECMAScript 2016 (ES7) is the latest version of the ECMAScript standard. 
+> JS is also unlike any other language in that the experimentation occurs on massive scale thanks to transpilers. Never happened before. -- Dan Abramov
 
 [React](https://github.com/facebook/react) is a declarative, efficient, and flexible JavaScript library for building user interfaces.
 
