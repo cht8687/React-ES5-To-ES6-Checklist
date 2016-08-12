@@ -1,11 +1,12 @@
+ES6 and beyond is very popular.
 
-ECMAScript2015(ES6) is the latest version of the ECMAScript standard. 
+> JS is also unlike any other language in that the experimentation occurs on massive scale thanks to transpilers. Never happened before. -- Dan Abramov
 
 [React](https://github.com/facebook/react) is a declarative, efficient, and flexible JavaScript library for building user interfaces.
 
-In the earlier days of React development, many programms were written in ES5. Howerver, as ES6 is more widely accepted now and with the help of transplier tools like [Babel](https://github.com/babel/babel), we can gradually retire some ES5 code and adopt some ES6 new features in React development. 
+In the earlier days of React development, many programms were written in ES5. Howerver, as ES6 and beyond is more widely accepted now and with the help of transplier tools like [Babel](https://github.com/babel/babel), we can gradually retire some ES5 code and adopt some new JavaScript features in React development. 
 
-Here is a check list to help you translate your ES5 code to newer version in React.
+Here is a check list to help you translate your ES5 code to ES next in React.
 You are welcome to contribute with more items provided below.
 
 ## Quick links
