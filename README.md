@@ -11,16 +11,16 @@ You are welcome to contribute with more items provided below.
 
 ## Quick links
 
-1. [require => import](#require-to-import)
-1. [createClass => extends React.Component](#createclass-to-extends)
-1. [module.exports => export default](#module-exports-to-export-default)
-1. [name: function()  =>  name()](#functions)
-1. [getDefaultProps and propTypes](#getdefaultprops-and-proptypes)
+1. [require => import](#require)
+1. [createClass => extends React.Component](#createClass)
+1. [module.exports => export default](#module)
+1. [name: function()  =>  name()](#name)
+1. [getDefaultProps and propTypes](#getDefaultProps)
 1. [getInitialState](#getinitialstate)
-1. [destructuring & spread attributes](#destructuring-and-spread-attributes)
-1. [use arrow functions](#use-arrow-functions)
+1. [destructuring & spread attributes](#destructuring)
+1. [use arrow functions](#arrow)
 
-### require-to-import
+### <a id="require"></a>require => import
 
 ES5
 
@@ -38,7 +38,7 @@ ES6
 
 **[⬆ back to top](#quick-links)**
 
-### createClass-to-extends
+### <a id="createClass"></a>createClass => extends React.Component
 
 ES5
 
@@ -65,7 +65,7 @@ ES6
   ```
 **[⬆ back to top](#quick-links)**
 
-### module-exports-to-export-default
+### <a id="module"></a>module.exports => export default
 
 ES5
 
@@ -95,7 +95,7 @@ ES6
   ```
 **[⬆ back to top](#quick-links)**
 
-### functions
+### <a id="name"></a>name: function()  =>  name()
 
 ES5
 
@@ -132,7 +132,7 @@ ES6
 
 **[⬆ back to top](#quick-links)**
 
-### getDefaultProps-and-propTypes
+### <a id="getDefaultProps"></a>getDefaultProps and propTypes
 
 ES5
 
@@ -202,7 +202,7 @@ ES future proposals:
 
 **[⬆ back to top](#quick-links)**
 
-### getInitialState
+### <a id="getInitialState"></a>getInitialState
 
 ES5
 
@@ -243,7 +243,7 @@ ES future proposals:
 
 **[⬆ back to top](#quick-links)**
 
-### Destructuring-and-spread-attributes
+### <a id="destructuring"></a>destructuring & spread attributes
 
 ```js
 class AutoloadingPostsGrid extends React.Component {
@@ -265,7 +265,7 @@ class AutoloadingPostsGrid extends React.Component {
 
 **[⬆ back to top](#quick-links)**
 
-### use-arrow-functions
+### <a id="use"></a>use arrow functions
 
 Stateless component:
 
