@@ -14,11 +14,11 @@ You are welcome to contribute with more items provided below.
 1. [require => import](#require)
 1. [createClass => extends React.Component](#createClass)
 1. [module.exports => export default](#module)
-1. [name: function()  =>  name()](#name)
+1. [name function()  =>  name()](#name)
 1. [getDefaultProps and propTypes](#getDefaultProps)
 1. [getInitialState](#getinitialstate)
 1. [destructuring & spread attributes](#destructuring)
-1. [use arrow functions](#arrow)
+1. [use arrow functions](#use)
 
 ### <a id="require"></a>require => import
 
@@ -95,7 +95,7 @@ ES6
   ```
 **[⬆ back to top](#quick-links)**
 
-### <a id="name"></a>name: function()  =>  name()
+### <a id="name"></a>name function()  =>  name()
 
 ES5
 
