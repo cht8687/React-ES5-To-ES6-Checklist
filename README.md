@@ -222,10 +222,10 @@ ES6
   export default class Header extends Component {
     constructor(props) {
       super(props);
-        this.state = {
-          title: props.title
-        };
-      }
+      this.state = {
+        title: props.title
+      };
+    }
   }
   ```
 
@@ -295,7 +295,7 @@ Using Arrow funtion with [Destructuring function arguments](https://github.com/g
 
 ```js
 const App = ({className, ...rest}) => (
-  <div className={classnames(className)} {rest}>
+  <div className={classnames(className)} {...rest}>
     <MyComponent />
   </div>
 );
